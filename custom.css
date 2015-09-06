@@ -14,4 +14,7 @@ p, div {
   color: red
 }
 
+body { 
+    background: url(/cream_dust.png) repeat 0 0;
+}
 
